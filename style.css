@@ -1,0 +1,79 @@
+body{
+	background-color: #000000;	
+	align-items: center;
+	margin: 0%;
+}
+
+.login{
+	background-color: #490101;
+	color: #fff;
+	width: 25%;
+	margin-left: 37%;
+	height: 50%;
+	border-radius: 10px;
+	padding: 10px;
+	margin-top: 10%;
+}
+
+h2{
+	font-family: sans-serif;
+	margin-left: 37%;
+	font-size: 30px;
+	margin-top: 35px;
+	cursor: default;
+}
+
+.email{
+	height: 30px;
+	margin-left: 5%;
+	margin-top: 35px;
+	font-size: 18px;
+	width: 90%;
+}
+
+.botaologin{
+	background-color: #45BCCC;
+	padding: 10px;
+	width: 30%;
+	font-size: 15px;
+	font-family: monospace;
+	margin-top: 15%;
+	margin-left: 35%;
+	border: none;
+	cursor: pointer;
+}
+
+.menu{
+	width: 100%;
+	height: 10%;
+	background-color: #490101;
+}
+
+.menuanimes{
+	color: #fff;
+	font-size: 25px;
+}
+
+.menuhome{
+	color: #fff;
+	font-size: 25px;
+}
+
+.menucontato{
+	color: #fff;
+	font-size: 25px;
+}
+
+.menucriador{
+	color: #fff;
+	font-size: 25px;
+}
+
+.teaserop{
+	margin: 5%;
+
+}
+
+.textop{
+	color: #fff;
+}
